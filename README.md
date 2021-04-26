@@ -1,5 +1,5 @@
 To Run the Project :
-Run the main function and choose the name for the Estore .
+Run the main function and choose the name for the Estore .<br>
 Choose options from the menu .
    Enjoy !!!
    This Electronic store consists of buyers,sellers and people who are both
